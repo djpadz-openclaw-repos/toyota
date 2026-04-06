@@ -1,0 +1,6 @@
+venv/
+venv312/
+__pycache__/
+*.pyc
+.toyota_tokens.json
+.auto_climate_state.json
