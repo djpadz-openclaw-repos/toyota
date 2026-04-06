@@ -4,3 +4,9 @@ __pycache__/
 *.pyc
 .toyota_tokens.json
 .auto_climate_state.json
+
+# Database files (handled by backup script)
+*.db
+*.sqlite
+*.sqlite3
+memory.db
